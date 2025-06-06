@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\demoapp\\demoapp\\controllers\\avenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\controllers\\avenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\demoapp\\demoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9193D7-241A-43D0-8CE7-6C974424F159}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:41:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Avenger.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Controllers\\Avenger.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Controllers\\Avenger.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Controllers\\Avenger.cs",
+              "RelativeToolTip": "DemoApp\\Controllers\\Avenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:38:06.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\DemoApp\\DemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:31:44.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|solutionrelative:items.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.dataaccess\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|solutionrelative:items.dataaccess\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B1C624-F042-4C6B-8C6D-DD22AC15ACEE}|StationaryShop\\StationaryShop.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\stationaryshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B1C624-F042-4C6B-8C6D-DD22AC15ACEE}|StationaryShop\\StationaryShop.csproj|solutionrelative:stationaryshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941BFADA-ED82-4B41-8AD9-E0CA9F37D818}|Items.Services\\Items.Services.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.services\\services\\interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941BFADA-ED82-4B41-8AD9-E0CA9F37D818}|Items.Services\\Items.Services.csproj|solutionrelative:items.services\\services\\interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941BFADA-ED82-4B41-8AD9-E0CA9F37D818}|Items.Services\\Items.Services.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941BFADA-ED82-4B41-8AD9-E0CA9F37D818}|Items.Services\\Items.Services.csproj|solutionrelative:items.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.dataaccess\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|solutionrelative:items.dataaccess\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.dataaccess\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|solutionrelative:items.dataaccess\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|c:\\users\\himanshu\\desktop\\study material\\internship\u002725\\stationaryshop2\\stationaryshop\\items.dataaccess\\models\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0DEA16-9020-4D46-A75A-3AE6205CA745}|Items.DataAccess\\Items.DataAccess.csproj|solutionrelative:items.dataaccess\\models\\filtervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.Services\\Services\\Interface\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "Items.Services\\Services\\Interface\\IUserInterface.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.Services\\Services\\Interface\\IUserInterface.cs",
+              "RelativeToolTip": "Items.Services\\Services\\Interface\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:08:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\StationaryShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StationaryShop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\StationaryShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StationaryShop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:05:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Items.DataAccess\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\Item.cs",
+              "RelativeToolTip": "Items.DataAccess\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:03:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\UserVM.cs",
+              "RelativeDocumentMoniker": "Items.DataAccess\\Models\\UserVM.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\UserVM.cs",
+              "RelativeToolTip": "Items.DataAccess\\Models\\UserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:02:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Items.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Items.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:00:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Items.DataAccess\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Items.DataAccess\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:59:13.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\FilterVM.cs",
+              "RelativeDocumentMoniker": "Items.DataAccess\\Models\\FilterVM.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Models\\FilterVM.cs",
+              "RelativeToolTip": "Items.DataAccess\\Models\\FilterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:56:22.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Items.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\Desktop\\Study material\\Internship\u002725\\StationaryShop2\\StationaryShop\\Items.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Items.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:53:53.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

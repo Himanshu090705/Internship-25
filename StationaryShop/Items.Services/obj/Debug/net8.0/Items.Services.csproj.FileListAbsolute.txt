@@ -1,0 +1,15 @@
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\bin\Debug\net8.0\Items.Services.deps.json
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\bin\Debug\net8.0\Items.Services.dll
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\bin\Debug\net8.0\Items.Services.pdb
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\bin\Debug\net8.0\Items.DataAccess.dll
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\bin\Debug\net8.0\Items.DataAccess.pdb
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.csproj.AssemblyReference.cache
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Se.4B8C26A3.Up2Date
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.dll
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\refint\Items.Services.dll
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\Items.Services.pdb
+C:\Users\Himanshu\Desktop\Study material\Internship'25\StationaryShop\Items.Services\obj\Debug\net8.0\ref\Items.Services.dll

@@ -1,0 +1,6 @@
+@Avengers_HostAddress = http://localhost:5212
+
+GET {{Avengers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
